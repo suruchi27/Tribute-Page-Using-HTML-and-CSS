@@ -1,0 +1,43 @@
+
+@import 'https://fonts.googleapis.com/css?family=Rakkas';
+body{
+    background-color: rgb(146, 134, 68);
+}
+#main-content {
+  display:block;
+    margin-left:auto;
+    margin-right:auto;
+  width:70%;
+  background-color: rgb(177, 162, 103);
+}
+
+.image-container {
+    text-align: center;
+}
+.center {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:40%;
+}
+h1 {
+  font-family: 'Rakkas', cursive;
+  text-align: center;
+}
+h3 {
+    text-align: center;
+  font-size: 25px;
+}
+em {
+  font-style:cursive;
+}
+p {
+ text-align: justify;
+  font-style:cursive;
+  font-size: 20px;
+  
+  display:block;
+    margin-left:auto;
+    margin-right:auto;
+  width: 70%;
+}
